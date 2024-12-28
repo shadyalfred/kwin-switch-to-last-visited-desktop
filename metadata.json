@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "shadyalfred98@gmail.com",
+                "Name": "Shady Alfred"
+            }
+        ],
+        "Description": "KWin script to switch to the last visited desktop",
+        "EnabledByDefault": true,
+        "Icon": "preferences-system-windows",
+        "Id": "Switch-Last-Visited-Desktop",
+        "License": "MIT",
+        "Name": "Switch To Last Visited Desktop"
+    },
+    "X-KDE-Ordering": 60,
+    "X-Plasma-API": "declarativescript",
+    "X-Plasma-APIX": "javascript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
+
